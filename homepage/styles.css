@@ -1,0 +1,80 @@
+/* Common Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  /* Header Styles */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+  }
+
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .navbar-nav .nav-link {
+    color: #fff;
+    margin-left: 10px;
+  }
+
+  /* Page-specific Styles */
+  h1 {
+    color: #333;
+    font-size: 36px;
+  }
+
+  p {
+    color: #666;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+/* Mobile-first styles */
+
+.container {
+    max-width: 100%;
+    padding: 20px;
+  }
+
+  .section {
+    margin-bottom: 20px;
+  }
+
+  /* Media queries for responsive design */
+
+  @media (min-width: 768px) {
+    /* Styles for tablets and larger screens */
+    .container {
+      max-width: 768px;
+      margin: 0 auto;
+    }
+  }
+
+  @media (min-width: 992px) {
+    /* Styles for desktop screens */
+    .container {
+      max-width: 960px;
+    }
+  }

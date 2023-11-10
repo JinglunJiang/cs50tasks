@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Sort1 is performing much better than sort3 when sorting a large number of sorted items.
+
+sort2 uses: Merge Sort
+
+How do you know?: It is significantly faster for sort2 to sort reversed/random files with a large amount of items inside.
+
+sort3 uses: Selection Sort
+
+How do you know?: It takes almost the same amount of time as sort1 but for sorted files, it is slower.
+
