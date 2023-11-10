@@ -1,5 +1,5 @@
 # cs50tasks
 
-## The file is the tasks assigned by the famous course CS50 offered by Harvard University, with all tests paassed
+## The file is the tasks assigned by the famous CS50 course offered by Harvard University, with all tests paassed
 
 Link to the course: https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science
